@@ -1,0 +1,17 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "a bookstore app",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.16.2",
+    "mongoose": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeevan Sandhu",
+  "license": "ISC"
+}
